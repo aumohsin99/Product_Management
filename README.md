@@ -1,4 +1,4 @@
-# Product_Management
+# Product Management Bytewise Fellowship Batch 2
 This repository consists of my learnings during Bytewise Fellowship Batch 2 in Product Management Domain.
 
 ## Learnings:
